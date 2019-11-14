@@ -1,7 +1,7 @@
 package com.example.DynamoDBExample.services;
 
 import com.example.DynamoDBExample.data.SerializableMongoObject;
-import com.example.DynamoDBExample.repositorys.ObjectRepository;
+import com.example.DynamoDBExample.repositories.ObjectRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.DynamoDBExample.repositorys;
+package com.example.DynamoDBExample.repositories;
 
 import com.example.DynamoDBExample.data.SerializableMongoObject;
 import org.springframework.data.mongodb.repository.MongoRepository;
